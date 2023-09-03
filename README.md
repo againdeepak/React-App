@@ -1,45 +1,43 @@
-# Getting Started with Create React App
+### Deployed on ⤵️
+#### :link: https://textagainutiles.netlify.app
+### ↘️ Getting Started with  Text Utiles App
+#### `npm start`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### ↘️ Test the Text Utiles App
+#### `npm test`
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
+### 🎥 GIF of ```Text Utiles``` ⤵️
+   ![textutiless](https://user-images.githubusercontent.com/111180448/223946448-a2c414b3-0250-4c44-89a3-8982704acbd5.gif)
 
 
-## Learn More
+### ↘️ Technology Used
+   + ***JavaScript***
+   + ***React js***
+   + ***Bootstrap***
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### ↘️ Features
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+   + ***Lowercase to Uppercase***
+   + ***Uppercase to Lowercase***
+   + ***Remove Extra Space***
+   + ***Copy Text***
+   + ***Clear Text***
+   + ***Time to Read word***
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
+### ↘️ In future features will be added
+   + ***Translation of Sentence***
+   + ***Text Style***
+   + ***Text-Speech of Sentence***
+ 
+### :white_check_mark: References for making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+### :white_check_mark: Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+### :white_check_mark: Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
