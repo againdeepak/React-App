@@ -16,6 +16,7 @@ export default function Navbar(props) {
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
     
             <li className="nav-item">
+<<<<<<< HEAD
               <Link className="nav-link active btn " aria-current="page" to="/home" ><i><b>Home</b></i></Link>
             </li>
             <li className="nav-item">
@@ -27,6 +28,9 @@ export default function Navbar(props) {
             <li className="nav-item">
               
               <Link className="nav-link active btn " aria-current="page" to="https://github.com/againdeepak/TextUtiles" ><i><b>GitHub</b></i></Link>
+=======
+              <a className="nav-link active btn " aria-current="page" href="https://github.com/againdeepak" ><i><b>GitHub</b></i></a>
+>>>>>>> 948d74597b5ae71df7f72664ccb566297d1819ba
             </li>
             {/* <li className="nav-item">
                 <Link className="nav-link" to="/" id="link">Link</Link>

@@ -1,8 +1,12 @@
 import Alert from "./components/Alert";
 import Navbar from "./components/Navbar";
 import Textform from "./components/Textform";
+<<<<<<< HEAD
 import About from "./components/About";
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
+=======
+
+>>>>>>> 948d74597b5ae71df7f72664ccb566297d1819ba
 import { useState } from "react";
 import Contact from "./components/Contact";
 function App() {
@@ -40,6 +44,14 @@ function App() {
   }
   return (
     <>
+<<<<<<< HEAD
+=======
+      <Navbar title="Melloite" mode={mode} enableDark={darkFun} modetext={modetext} />
+      <Alert alert={alert} />
+      <div className="container my-3">
+        <Textform heading="Enter text here" mode={mode} btnclr={btnclr} showAlert={showAlert} />
+      </div>
+>>>>>>> 948d74597b5ae71df7f72664ccb566297d1819ba
 
       {/* <Navbar title="Melloite" mode={mode} enableDark={darkFun} modetext={modetext} />
       <About/>
