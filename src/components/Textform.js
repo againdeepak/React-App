@@ -43,13 +43,8 @@ export default function Textform(props) {
     const [text, setText] = useState("");
     // setText("Kaise hai app");
     return (
-<<<<<<< HEAD
-        <div className='container my-2'>
-            <div className={`form-group cotainer `} style={{color:props.mode==='dark'?'white':'black'}}>
-=======
         < >
             <div className={`form-group cotainer  `} style={{color:props.mode==='dark'?'white':'black'}}>
->>>>>>> 948d74597b5ae71df7f72664ccb566297d1819ba
                 <h1>{props.heading}</h1>
                 <textarea className="form-control" value={text} onChange={handleOnchange} style={{backgroundColor:props.mode==='dark'?'#4848a8':'white',color:props.mode==='dark'?'white':'black'}} id="exampleFormControlTextarea1" rows="10" >
                     </textarea>           
@@ -67,6 +62,6 @@ export default function Textform(props) {
                 <p>{text.length>0?text:"Please write something for preview..."}</p>
             </div>
 
-        </div>
+        </>
     )
 }
